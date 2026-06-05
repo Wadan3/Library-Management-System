@@ -9,7 +9,7 @@ class Book {
 
     public Book(String id, String title, String author) {
         if (id.length() != 5) {
-            throw new IllegalArgumentException("It should 5 character!!!");
+          throw new IllegalArgumentException("Book ID must be exactly 5 characters long.");
         }
         this.id = id;
         this.title = title;
