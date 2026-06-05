@@ -1,3 +1,4 @@
+![Java CI](https://github.com/Wadan3/Library-Management-System/actions/workflows/ant.yml/badge.svg)
 # Library Management System
 
 A simple Java-based Library Management System for managing books and basic library operations.
